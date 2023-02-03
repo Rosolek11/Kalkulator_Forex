@@ -1,2 +1,2 @@
 # Kalkulator_Forex
-Kalkulator dla tradera na forex
+Kalkulator dla tradera na rynku forex
